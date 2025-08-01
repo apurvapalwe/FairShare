@@ -1,0 +1,5 @@
+som,0
+yash,1
+apu,25.00
+vaish,0
+apu,0

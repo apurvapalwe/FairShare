@@ -1,0 +1,27 @@
+# Compiler and flags
+CC = gcc
+CFLAGS = -Wall -Wextra -g
+
+# Source files
+SRCS = cli.c splitwise.c
+OBJS = $(SRCS:.c=.o)
+TARGET = fairshare
+
+# Default target
+all: $(TARGET)
+
+# Link object files into the final executable
+$(TARGET): $(OBJS)
+	$(CC) $(CFLAGS) -o $@ $^
+
+# Compile .c files to .o files
+%.o: %.c
+	$(CC) $(CFLAGS) -c $< -o $@
+
+# Clean up
+clean:
+	rm -f $(OBJS) $(TARGET)
+
+# Run the app
+run: all
+	./$(TARGET)

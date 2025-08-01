@@ -1,0 +1,11 @@
+anj,0
+sid,3
+anj,750.00
+apu,750.00
+sej,750.00
+sej,0
+apu,0
+som,3 //number of transactions made which are following
+apu,1250.00
+anj,1250.00
+som,1250.00
