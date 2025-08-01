@@ -1,6 +1,0 @@
-sid,anj,750.00
-sid,apu,750.00
-sid,sej,750.00
-som,apu,1250.00
-som,anj,1250.00
-som,som,1250.00
