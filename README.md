@@ -43,12 +43,6 @@ To get a local copy up and running, follow these simple steps:
    ./expense_equilibrium
    ```
 
-## **Contributors**
-
-- **Soumya Pachpor**
-- **Apurva**
-- **Anjali**
-
 We worked collaboratively as a team throughout the development process, tackling coding, design, and testing together to ensure a successful project outcome.
 
 ## **License**
