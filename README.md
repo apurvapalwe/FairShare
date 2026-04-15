@@ -22,26 +22,7 @@ With a user-friendly interface and efficient algorithms, **Expense Equilibrium**
 - **Data Structures**: Graphs, Arrays, and Linked Lists
 - **Dynamic Memory Management**
 
-## **Getting Started**
 
-To get a local copy up and running, follow these simple steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/SoumyaPachpor/Expense_Equilibria.git
-   ```
-2. **Navigate to the project directory**:
-   ```bash
-   cd Expense_Equilibria
-   ```
-3. **Compile the code**:
-   ```bash
-   gcc -o expense_equilibrium src/Array/*.c src/Graph/*.c src/Heap/*.c src/List/*.c src/Algo/minimize_cash_flow.c main.c
-   ```
-4. **Run the program**:
-   ```bash
-   ./expense_equilibrium
-   ```
 
 We worked collaboratively as a team throughout the development process, tackling coding, design, and testing together to ensure a successful project outcome.
 
